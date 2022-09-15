@@ -7,9 +7,9 @@ from datetime import datetime
 import asyncio
 
 bot_name = 'Patrol'
-bot_token = 'Nzk1MzM1NjkxMzI3NjM1NTE4.X_H4FQ.HAHwF0KvX79x8f8_dmQ07AQyems'
+bot_token = 'your_bot_token'
 vr = 'v1.0.0'
-invite_link = 'https://discord.com/oauth2/authorize?client_id=795335691327635518&permissions=1133584&scope=bot'
+invite_link = 'your_invite_link'
 now = datetime.now()
 current_time = now.strftime("%I:%M %p")
 # Client
